@@ -789,6 +789,7 @@ namespace WindowsFormApplication1 {
 			this->_D1->Name = L"_D1";
 			this->_D1->Size = System::Drawing::Size(24, 24);
 			this->_D1->TabIndex = 3;
+			this->_D1->TabStop = false;
 			this->_D1->UseVisualStyleBackColor = true;
 			this->_D1->Click += gcnew System::EventHandler(this, &Gracz::button1_Click);
 			// 
@@ -807,6 +808,7 @@ namespace WindowsFormApplication1 {
 			this->_A1->Name = L"_A1";
 			this->_A1->Size = System::Drawing::Size(24, 24);
 			this->_A1->TabIndex = 0;
+			this->_A1->TabStop = false;
 			this->_A1->UseVisualStyleBackColor = true;
 			this->_A1->Click += gcnew System::EventHandler(this, &Gracz::button1_Click);
 			// 
@@ -825,6 +827,7 @@ namespace WindowsFormApplication1 {
 			this->_B1->Name = L"_B1";
 			this->_B1->Size = System::Drawing::Size(24, 24);
 			this->_B1->TabIndex = 1;
+			this->_B1->TabStop = false;
 			this->_B1->UseVisualStyleBackColor = true;
 			this->_B1->Click += gcnew System::EventHandler(this, &Gracz::button1_Click);
 			// 
@@ -843,6 +846,7 @@ namespace WindowsFormApplication1 {
 			this->_C1->Name = L"_C1";
 			this->_C1->Size = System::Drawing::Size(24, 24);
 			this->_C1->TabIndex = 2;
+			this->_C1->TabStop = false;
 			this->_C1->UseVisualStyleBackColor = true;
 			this->_C1->Click += gcnew System::EventHandler(this, &Gracz::button1_Click);
 			// 
@@ -861,6 +865,7 @@ namespace WindowsFormApplication1 {
 			this->_E1->Name = L"_E1";
 			this->_E1->Size = System::Drawing::Size(24, 24);
 			this->_E1->TabIndex = 4;
+			this->_E1->TabStop = false;
 			this->_E1->UseVisualStyleBackColor = true;
 			this->_E1->Click += gcnew System::EventHandler(this, &Gracz::button1_Click);
 			// 
@@ -879,6 +884,7 @@ namespace WindowsFormApplication1 {
 			this->_F1->Name = L"_F1";
 			this->_F1->Size = System::Drawing::Size(24, 24);
 			this->_F1->TabIndex = 5;
+			this->_F1->TabStop = false;
 			this->_F1->UseVisualStyleBackColor = true;
 			this->_F1->Click += gcnew System::EventHandler(this, &Gracz::button1_Click);
 			// 
@@ -897,6 +903,7 @@ namespace WindowsFormApplication1 {
 			this->_G1->Name = L"_G1";
 			this->_G1->Size = System::Drawing::Size(24, 24);
 			this->_G1->TabIndex = 6;
+			this->_G1->TabStop = false;
 			this->_G1->UseVisualStyleBackColor = true;
 			this->_G1->Click += gcnew System::EventHandler(this, &Gracz::button1_Click);
 			// 
@@ -915,6 +922,7 @@ namespace WindowsFormApplication1 {
 			this->_H1->Name = L"_H1";
 			this->_H1->Size = System::Drawing::Size(24, 24);
 			this->_H1->TabIndex = 7;
+			this->_H1->TabStop = false;
 			this->_H1->UseVisualStyleBackColor = true;
 			this->_H1->Click += gcnew System::EventHandler(this, &Gracz::button1_Click);
 			// 
@@ -933,6 +941,7 @@ namespace WindowsFormApplication1 {
 			this->_I1->Name = L"_I1";
 			this->_I1->Size = System::Drawing::Size(24, 24);
 			this->_I1->TabIndex = 8;
+			this->_I1->TabStop = false;
 			this->_I1->UseVisualStyleBackColor = true;
 			this->_I1->Click += gcnew System::EventHandler(this, &Gracz::button1_Click);
 			// 
@@ -951,6 +960,7 @@ namespace WindowsFormApplication1 {
 			this->_J1->Name = L"_J1";
 			this->_J1->Size = System::Drawing::Size(24, 24);
 			this->_J1->TabIndex = 9;
+			this->_J1->TabStop = false;
 			this->_J1->UseVisualStyleBackColor = true;
 			this->_J1->Click += gcnew System::EventHandler(this, &Gracz::button1_Click);
 			// 
@@ -969,6 +979,7 @@ namespace WindowsFormApplication1 {
 			this->_A2->Name = L"_A2";
 			this->_A2->Size = System::Drawing::Size(24, 24);
 			this->_A2->TabIndex = 10;
+			this->_A2->TabStop = false;
 			this->_A2->UseVisualStyleBackColor = true;
 			this->_A2->Click += gcnew System::EventHandler(this, &Gracz::button1_Click);
 			// 
@@ -987,6 +998,7 @@ namespace WindowsFormApplication1 {
 			this->_B2->Name = L"_B2";
 			this->_B2->Size = System::Drawing::Size(24, 24);
 			this->_B2->TabIndex = 11;
+			this->_B2->TabStop = false;
 			this->_B2->UseVisualStyleBackColor = true;
 			this->_B2->Click += gcnew System::EventHandler(this, &Gracz::button1_Click);
 			// 
@@ -1005,6 +1017,7 @@ namespace WindowsFormApplication1 {
 			this->_C2->Name = L"_C2";
 			this->_C2->Size = System::Drawing::Size(24, 24);
 			this->_C2->TabIndex = 12;
+			this->_C2->TabStop = false;
 			this->_C2->UseVisualStyleBackColor = true;
 			this->_C2->Click += gcnew System::EventHandler(this, &Gracz::button1_Click);
 			// 
@@ -1023,6 +1036,7 @@ namespace WindowsFormApplication1 {
 			this->_D2->Name = L"_D2";
 			this->_D2->Size = System::Drawing::Size(24, 24);
 			this->_D2->TabIndex = 13;
+			this->_D2->TabStop = false;
 			this->_D2->UseVisualStyleBackColor = true;
 			this->_D2->Click += gcnew System::EventHandler(this, &Gracz::button1_Click);
 			// 
@@ -1041,6 +1055,7 @@ namespace WindowsFormApplication1 {
 			this->_E2->Name = L"_E2";
 			this->_E2->Size = System::Drawing::Size(24, 24);
 			this->_E2->TabIndex = 14;
+			this->_E2->TabStop = false;
 			this->_E2->UseVisualStyleBackColor = true;
 			this->_E2->Click += gcnew System::EventHandler(this, &Gracz::button1_Click);
 			// 
@@ -1059,6 +1074,7 @@ namespace WindowsFormApplication1 {
 			this->_F2->Name = L"_F2";
 			this->_F2->Size = System::Drawing::Size(24, 24);
 			this->_F2->TabIndex = 15;
+			this->_F2->TabStop = false;
 			this->_F2->UseVisualStyleBackColor = true;
 			this->_F2->Click += gcnew System::EventHandler(this, &Gracz::button1_Click);
 			// 
@@ -1077,6 +1093,7 @@ namespace WindowsFormApplication1 {
 			this->_G2->Name = L"_G2";
 			this->_G2->Size = System::Drawing::Size(24, 24);
 			this->_G2->TabIndex = 16;
+			this->_G2->TabStop = false;
 			this->_G2->UseVisualStyleBackColor = true;
 			this->_G2->Click += gcnew System::EventHandler(this, &Gracz::button1_Click);
 			// 
@@ -1095,6 +1112,7 @@ namespace WindowsFormApplication1 {
 			this->_H2->Name = L"_H2";
 			this->_H2->Size = System::Drawing::Size(24, 24);
 			this->_H2->TabIndex = 17;
+			this->_H2->TabStop = false;
 			this->_H2->UseVisualStyleBackColor = true;
 			this->_H2->Click += gcnew System::EventHandler(this, &Gracz::button1_Click);
 			// 
@@ -1113,6 +1131,7 @@ namespace WindowsFormApplication1 {
 			this->_I2->Name = L"_I2";
 			this->_I2->Size = System::Drawing::Size(24, 24);
 			this->_I2->TabIndex = 18;
+			this->_I2->TabStop = false;
 			this->_I2->UseVisualStyleBackColor = true;
 			this->_I2->Click += gcnew System::EventHandler(this, &Gracz::button1_Click);
 			// 
@@ -1131,6 +1150,7 @@ namespace WindowsFormApplication1 {
 			this->_J2->Name = L"_J2";
 			this->_J2->Size = System::Drawing::Size(24, 24);
 			this->_J2->TabIndex = 19;
+			this->_J2->TabStop = false;
 			this->_J2->UseVisualStyleBackColor = true;
 			this->_J2->Click += gcnew System::EventHandler(this, &Gracz::button1_Click);
 			// 
@@ -1149,6 +1169,7 @@ namespace WindowsFormApplication1 {
 			this->_A3->Name = L"_A3";
 			this->_A3->Size = System::Drawing::Size(24, 24);
 			this->_A3->TabIndex = 20;
+			this->_A3->TabStop = false;
 			this->_A3->UseVisualStyleBackColor = true;
 			this->_A3->Click += gcnew System::EventHandler(this, &Gracz::button1_Click);
 			// 
@@ -1158,6 +1179,7 @@ namespace WindowsFormApplication1 {
 			this->_J10->Name = L"_J10";
 			this->_J10->Size = System::Drawing::Size(24, 24);
 			this->_J10->TabIndex = 99;
+			this->_J10->TabStop = false;
 			this->_J10->UseVisualStyleBackColor = true;
 			this->_J10->Click += gcnew System::EventHandler(this, &Gracz::button1_Click);
 			// 
@@ -1167,6 +1189,7 @@ namespace WindowsFormApplication1 {
 			this->_B3->Name = L"_B3";
 			this->_B3->Size = System::Drawing::Size(24, 24);
 			this->_B3->TabIndex = 21;
+			this->_B3->TabStop = false;
 			this->_B3->UseVisualStyleBackColor = true;
 			this->_B3->Click += gcnew System::EventHandler(this, &Gracz::button1_Click);
 			// 
@@ -1176,6 +1199,7 @@ namespace WindowsFormApplication1 {
 			this->_I10->Name = L"_I10";
 			this->_I10->Size = System::Drawing::Size(24, 24);
 			this->_I10->TabIndex = 98;
+			this->_I10->TabStop = false;
 			this->_I10->UseVisualStyleBackColor = true;
 			this->_I10->Click += gcnew System::EventHandler(this, &Gracz::button1_Click);
 			// 
@@ -1185,6 +1209,7 @@ namespace WindowsFormApplication1 {
 			this->_C3->Name = L"_C3";
 			this->_C3->Size = System::Drawing::Size(24, 24);
 			this->_C3->TabIndex = 22;
+			this->_C3->TabStop = false;
 			this->_C3->UseVisualStyleBackColor = true;
 			this->_C3->Click += gcnew System::EventHandler(this, &Gracz::button1_Click);
 			// 
@@ -1194,6 +1219,7 @@ namespace WindowsFormApplication1 {
 			this->_H10->Name = L"_H10";
 			this->_H10->Size = System::Drawing::Size(24, 24);
 			this->_H10->TabIndex = 97;
+			this->_H10->TabStop = false;
 			this->_H10->UseVisualStyleBackColor = true;
 			this->_H10->Click += gcnew System::EventHandler(this, &Gracz::button1_Click);
 			// 
@@ -1203,6 +1229,7 @@ namespace WindowsFormApplication1 {
 			this->_D3->Name = L"_D3";
 			this->_D3->Size = System::Drawing::Size(24, 24);
 			this->_D3->TabIndex = 23;
+			this->_D3->TabStop = false;
 			this->_D3->UseVisualStyleBackColor = true;
 			this->_D3->Click += gcnew System::EventHandler(this, &Gracz::button1_Click);
 			// 
@@ -1212,6 +1239,7 @@ namespace WindowsFormApplication1 {
 			this->_G10->Name = L"_G10";
 			this->_G10->Size = System::Drawing::Size(24, 24);
 			this->_G10->TabIndex = 96;
+			this->_G10->TabStop = false;
 			this->_G10->UseVisualStyleBackColor = true;
 			this->_G10->Click += gcnew System::EventHandler(this, &Gracz::button1_Click);
 			// 
@@ -1221,6 +1249,7 @@ namespace WindowsFormApplication1 {
 			this->_E3->Name = L"_E3";
 			this->_E3->Size = System::Drawing::Size(24, 24);
 			this->_E3->TabIndex = 24;
+			this->_E3->TabStop = false;
 			this->_E3->UseVisualStyleBackColor = true;
 			this->_E3->Click += gcnew System::EventHandler(this, &Gracz::button1_Click);
 			// 
@@ -1230,6 +1259,7 @@ namespace WindowsFormApplication1 {
 			this->_F10->Name = L"_F10";
 			this->_F10->Size = System::Drawing::Size(24, 24);
 			this->_F10->TabIndex = 95;
+			this->_F10->TabStop = false;
 			this->_F10->UseVisualStyleBackColor = true;
 			this->_F10->Click += gcnew System::EventHandler(this, &Gracz::button1_Click);
 			// 
@@ -1239,6 +1269,7 @@ namespace WindowsFormApplication1 {
 			this->_F3->Name = L"_F3";
 			this->_F3->Size = System::Drawing::Size(24, 24);
 			this->_F3->TabIndex = 25;
+			this->_F3->TabStop = false;
 			this->_F3->UseVisualStyleBackColor = true;
 			this->_F3->Click += gcnew System::EventHandler(this, &Gracz::button1_Click);
 			// 
@@ -1248,6 +1279,7 @@ namespace WindowsFormApplication1 {
 			this->_E10->Name = L"_E10";
 			this->_E10->Size = System::Drawing::Size(24, 24);
 			this->_E10->TabIndex = 94;
+			this->_E10->TabStop = false;
 			this->_E10->UseVisualStyleBackColor = true;
 			this->_E10->Click += gcnew System::EventHandler(this, &Gracz::button1_Click);
 			// 
@@ -1257,6 +1289,7 @@ namespace WindowsFormApplication1 {
 			this->_G3->Name = L"_G3";
 			this->_G3->Size = System::Drawing::Size(24, 24);
 			this->_G3->TabIndex = 26;
+			this->_G3->TabStop = false;
 			this->_G3->UseVisualStyleBackColor = true;
 			this->_G3->Click += gcnew System::EventHandler(this, &Gracz::button1_Click);
 			// 
@@ -1266,6 +1299,7 @@ namespace WindowsFormApplication1 {
 			this->_D10->Name = L"_D10";
 			this->_D10->Size = System::Drawing::Size(24, 24);
 			this->_D10->TabIndex = 93;
+			this->_D10->TabStop = false;
 			this->_D10->UseVisualStyleBackColor = true;
 			this->_D10->Click += gcnew System::EventHandler(this, &Gracz::button1_Click);
 			// 
@@ -1275,6 +1309,7 @@ namespace WindowsFormApplication1 {
 			this->_H3->Name = L"_H3";
 			this->_H3->Size = System::Drawing::Size(24, 24);
 			this->_H3->TabIndex = 27;
+			this->_H3->TabStop = false;
 			this->_H3->UseVisualStyleBackColor = true;
 			this->_H3->Click += gcnew System::EventHandler(this, &Gracz::button1_Click);
 			// 
@@ -1284,6 +1319,7 @@ namespace WindowsFormApplication1 {
 			this->_C10->Name = L"_C10";
 			this->_C10->Size = System::Drawing::Size(24, 24);
 			this->_C10->TabIndex = 92;
+			this->_C10->TabStop = false;
 			this->_C10->UseVisualStyleBackColor = true;
 			this->_C10->Click += gcnew System::EventHandler(this, &Gracz::button1_Click);
 			// 
@@ -1293,6 +1329,7 @@ namespace WindowsFormApplication1 {
 			this->_I3->Name = L"_I3";
 			this->_I3->Size = System::Drawing::Size(24, 24);
 			this->_I3->TabIndex = 28;
+			this->_I3->TabStop = false;
 			this->_I3->UseVisualStyleBackColor = true;
 			this->_I3->Click += gcnew System::EventHandler(this, &Gracz::button1_Click);
 			// 
@@ -1302,6 +1339,7 @@ namespace WindowsFormApplication1 {
 			this->_B10->Name = L"_B10";
 			this->_B10->Size = System::Drawing::Size(24, 24);
 			this->_B10->TabIndex = 91;
+			this->_B10->TabStop = false;
 			this->_B10->UseVisualStyleBackColor = true;
 			this->_B10->Click += gcnew System::EventHandler(this, &Gracz::button1_Click);
 			// 
@@ -1311,6 +1349,7 @@ namespace WindowsFormApplication1 {
 			this->_J3->Name = L"_J3";
 			this->_J3->Size = System::Drawing::Size(24, 24);
 			this->_J3->TabIndex = 29;
+			this->_J3->TabStop = false;
 			this->_J3->UseVisualStyleBackColor = true;
 			this->_J3->Click += gcnew System::EventHandler(this, &Gracz::button1_Click);
 			// 
@@ -1320,6 +1359,7 @@ namespace WindowsFormApplication1 {
 			this->_A10->Name = L"_A10";
 			this->_A10->Size = System::Drawing::Size(24, 24);
 			this->_A10->TabIndex = 90;
+			this->_A10->TabStop = false;
 			this->_A10->UseVisualStyleBackColor = true;
 			this->_A10->Click += gcnew System::EventHandler(this, &Gracz::button1_Click);
 			// 
@@ -1329,6 +1369,7 @@ namespace WindowsFormApplication1 {
 			this->_A4->Name = L"_A4";
 			this->_A4->Size = System::Drawing::Size(24, 24);
 			this->_A4->TabIndex = 30;
+			this->_A4->TabStop = false;
 			this->_A4->UseVisualStyleBackColor = true;
 			this->_A4->Click += gcnew System::EventHandler(this, &Gracz::button1_Click);
 			// 
@@ -1338,6 +1379,7 @@ namespace WindowsFormApplication1 {
 			this->_J9->Name = L"_J9";
 			this->_J9->Size = System::Drawing::Size(24, 24);
 			this->_J9->TabIndex = 89;
+			this->_J9->TabStop = false;
 			this->_J9->UseVisualStyleBackColor = true;
 			this->_J9->Click += gcnew System::EventHandler(this, &Gracz::button1_Click);
 			// 
@@ -1347,6 +1389,7 @@ namespace WindowsFormApplication1 {
 			this->_B4->Name = L"_B4";
 			this->_B4->Size = System::Drawing::Size(24, 24);
 			this->_B4->TabIndex = 31;
+			this->_B4->TabStop = false;
 			this->_B4->UseVisualStyleBackColor = true;
 			this->_B4->Click += gcnew System::EventHandler(this, &Gracz::button1_Click);
 			// 
@@ -1356,6 +1399,7 @@ namespace WindowsFormApplication1 {
 			this->_I9->Name = L"_I9";
 			this->_I9->Size = System::Drawing::Size(24, 24);
 			this->_I9->TabIndex = 88;
+			this->_I9->TabStop = false;
 			this->_I9->UseVisualStyleBackColor = true;
 			this->_I9->Click += gcnew System::EventHandler(this, &Gracz::button1_Click);
 			// 
@@ -1365,6 +1409,7 @@ namespace WindowsFormApplication1 {
 			this->_C4->Name = L"_C4";
 			this->_C4->Size = System::Drawing::Size(24, 24);
 			this->_C4->TabIndex = 32;
+			this->_C4->TabStop = false;
 			this->_C4->UseVisualStyleBackColor = true;
 			this->_C4->Click += gcnew System::EventHandler(this, &Gracz::button1_Click);
 			// 
@@ -1374,6 +1419,7 @@ namespace WindowsFormApplication1 {
 			this->_H9->Name = L"_H9";
 			this->_H9->Size = System::Drawing::Size(24, 24);
 			this->_H9->TabIndex = 87;
+			this->_H9->TabStop = false;
 			this->_H9->UseVisualStyleBackColor = true;
 			this->_H9->Click += gcnew System::EventHandler(this, &Gracz::button1_Click);
 			// 
@@ -1383,6 +1429,7 @@ namespace WindowsFormApplication1 {
 			this->_D4->Name = L"_D4";
 			this->_D4->Size = System::Drawing::Size(24, 24);
 			this->_D4->TabIndex = 33;
+			this->_D4->TabStop = false;
 			this->_D4->UseVisualStyleBackColor = true;
 			this->_D4->Click += gcnew System::EventHandler(this, &Gracz::button1_Click);
 			// 
@@ -1392,6 +1439,7 @@ namespace WindowsFormApplication1 {
 			this->_G9->Name = L"_G9";
 			this->_G9->Size = System::Drawing::Size(24, 24);
 			this->_G9->TabIndex = 86;
+			this->_G9->TabStop = false;
 			this->_G9->UseVisualStyleBackColor = true;
 			this->_G9->Click += gcnew System::EventHandler(this, &Gracz::button1_Click);
 			// 
@@ -1401,6 +1449,7 @@ namespace WindowsFormApplication1 {
 			this->_E4->Name = L"_E4";
 			this->_E4->Size = System::Drawing::Size(24, 24);
 			this->_E4->TabIndex = 34;
+			this->_E4->TabStop = false;
 			this->_E4->UseVisualStyleBackColor = true;
 			this->_E4->Click += gcnew System::EventHandler(this, &Gracz::button1_Click);
 			// 
@@ -1410,6 +1459,7 @@ namespace WindowsFormApplication1 {
 			this->_F9->Name = L"_F9";
 			this->_F9->Size = System::Drawing::Size(24, 24);
 			this->_F9->TabIndex = 85;
+			this->_F9->TabStop = false;
 			this->_F9->UseVisualStyleBackColor = true;
 			this->_F9->Click += gcnew System::EventHandler(this, &Gracz::button1_Click);
 			// 
@@ -1419,6 +1469,7 @@ namespace WindowsFormApplication1 {
 			this->_F4->Name = L"_F4";
 			this->_F4->Size = System::Drawing::Size(24, 24);
 			this->_F4->TabIndex = 35;
+			this->_F4->TabStop = false;
 			this->_F4->UseVisualStyleBackColor = true;
 			this->_F4->Click += gcnew System::EventHandler(this, &Gracz::button1_Click);
 			// 
@@ -1428,6 +1479,7 @@ namespace WindowsFormApplication1 {
 			this->_E9->Name = L"_E9";
 			this->_E9->Size = System::Drawing::Size(24, 24);
 			this->_E9->TabIndex = 84;
+			this->_E9->TabStop = false;
 			this->_E9->UseVisualStyleBackColor = true;
 			this->_E9->Click += gcnew System::EventHandler(this, &Gracz::button1_Click);
 			// 
@@ -1437,6 +1489,7 @@ namespace WindowsFormApplication1 {
 			this->_G4->Name = L"_G4";
 			this->_G4->Size = System::Drawing::Size(24, 24);
 			this->_G4->TabIndex = 36;
+			this->_G4->TabStop = false;
 			this->_G4->UseVisualStyleBackColor = true;
 			this->_G4->Click += gcnew System::EventHandler(this, &Gracz::button1_Click);
 			// 
@@ -1446,6 +1499,7 @@ namespace WindowsFormApplication1 {
 			this->_D9->Name = L"_D9";
 			this->_D9->Size = System::Drawing::Size(24, 24);
 			this->_D9->TabIndex = 83;
+			this->_D9->TabStop = false;
 			this->_D9->UseVisualStyleBackColor = true;
 			this->_D9->Click += gcnew System::EventHandler(this, &Gracz::button1_Click);
 			// 
@@ -1455,6 +1509,7 @@ namespace WindowsFormApplication1 {
 			this->_H4->Name = L"_H4";
 			this->_H4->Size = System::Drawing::Size(24, 24);
 			this->_H4->TabIndex = 37;
+			this->_H4->TabStop = false;
 			this->_H4->UseVisualStyleBackColor = true;
 			this->_H4->Click += gcnew System::EventHandler(this, &Gracz::button1_Click);
 			// 
@@ -1464,6 +1519,7 @@ namespace WindowsFormApplication1 {
 			this->_C9->Name = L"_C9";
 			this->_C9->Size = System::Drawing::Size(24, 24);
 			this->_C9->TabIndex = 82;
+			this->_C9->TabStop = false;
 			this->_C9->UseVisualStyleBackColor = true;
 			this->_C9->Click += gcnew System::EventHandler(this, &Gracz::button1_Click);
 			// 
@@ -1473,6 +1529,7 @@ namespace WindowsFormApplication1 {
 			this->_I4->Name = L"_I4";
 			this->_I4->Size = System::Drawing::Size(24, 24);
 			this->_I4->TabIndex = 38;
+			this->_I4->TabStop = false;
 			this->_I4->UseVisualStyleBackColor = true;
 			this->_I4->Click += gcnew System::EventHandler(this, &Gracz::button1_Click);
 			// 
@@ -1482,6 +1539,7 @@ namespace WindowsFormApplication1 {
 			this->_B9->Name = L"_B9";
 			this->_B9->Size = System::Drawing::Size(24, 24);
 			this->_B9->TabIndex = 81;
+			this->_B9->TabStop = false;
 			this->_B9->UseVisualStyleBackColor = true;
 			this->_B9->Click += gcnew System::EventHandler(this, &Gracz::button1_Click);
 			// 
@@ -1491,6 +1549,7 @@ namespace WindowsFormApplication1 {
 			this->_J4->Name = L"_J4";
 			this->_J4->Size = System::Drawing::Size(24, 24);
 			this->_J4->TabIndex = 39;
+			this->_J4->TabStop = false;
 			this->_J4->UseVisualStyleBackColor = true;
 			this->_J4->Click += gcnew System::EventHandler(this, &Gracz::button1_Click);
 			// 
@@ -1500,6 +1559,7 @@ namespace WindowsFormApplication1 {
 			this->_A9->Name = L"_A9";
 			this->_A9->Size = System::Drawing::Size(24, 24);
 			this->_A9->TabIndex = 80;
+			this->_A9->TabStop = false;
 			this->_A9->UseVisualStyleBackColor = true;
 			this->_A9->Click += gcnew System::EventHandler(this, &Gracz::button1_Click);
 			// 
@@ -1509,6 +1569,7 @@ namespace WindowsFormApplication1 {
 			this->_A5->Name = L"_A5";
 			this->_A5->Size = System::Drawing::Size(24, 24);
 			this->_A5->TabIndex = 40;
+			this->_A5->TabStop = false;
 			this->_A5->UseVisualStyleBackColor = true;
 			this->_A5->Click += gcnew System::EventHandler(this, &Gracz::button1_Click);
 			// 
@@ -1518,6 +1579,7 @@ namespace WindowsFormApplication1 {
 			this->_J8->Name = L"_J8";
 			this->_J8->Size = System::Drawing::Size(24, 24);
 			this->_J8->TabIndex = 79;
+			this->_J8->TabStop = false;
 			this->_J8->UseVisualStyleBackColor = true;
 			this->_J8->Click += gcnew System::EventHandler(this, &Gracz::button1_Click);
 			// 
@@ -1527,6 +1589,7 @@ namespace WindowsFormApplication1 {
 			this->_B5->Name = L"_B5";
 			this->_B5->Size = System::Drawing::Size(24, 24);
 			this->_B5->TabIndex = 41;
+			this->_B5->TabStop = false;
 			this->_B5->UseVisualStyleBackColor = true;
 			this->_B5->Click += gcnew System::EventHandler(this, &Gracz::button1_Click);
 			// 
@@ -1536,6 +1599,7 @@ namespace WindowsFormApplication1 {
 			this->_I8->Name = L"_I8";
 			this->_I8->Size = System::Drawing::Size(24, 24);
 			this->_I8->TabIndex = 78;
+			this->_I8->TabStop = false;
 			this->_I8->UseVisualStyleBackColor = true;
 			this->_I8->Click += gcnew System::EventHandler(this, &Gracz::button1_Click);
 			// 
@@ -1545,6 +1609,7 @@ namespace WindowsFormApplication1 {
 			this->_C5->Name = L"_C5";
 			this->_C5->Size = System::Drawing::Size(24, 24);
 			this->_C5->TabIndex = 42;
+			this->_C5->TabStop = false;
 			this->_C5->UseVisualStyleBackColor = true;
 			this->_C5->Click += gcnew System::EventHandler(this, &Gracz::button1_Click);
 			// 
@@ -1554,6 +1619,7 @@ namespace WindowsFormApplication1 {
 			this->_H8->Name = L"_H8";
 			this->_H8->Size = System::Drawing::Size(24, 24);
 			this->_H8->TabIndex = 77;
+			this->_H8->TabStop = false;
 			this->_H8->UseVisualStyleBackColor = true;
 			this->_H8->Click += gcnew System::EventHandler(this, &Gracz::button1_Click);
 			// 
@@ -1563,6 +1629,7 @@ namespace WindowsFormApplication1 {
 			this->_D5->Name = L"_D5";
 			this->_D5->Size = System::Drawing::Size(24, 24);
 			this->_D5->TabIndex = 43;
+			this->_D5->TabStop = false;
 			this->_D5->UseVisualStyleBackColor = true;
 			this->_D5->Click += gcnew System::EventHandler(this, &Gracz::button1_Click);
 			// 
@@ -1572,6 +1639,7 @@ namespace WindowsFormApplication1 {
 			this->_G8->Name = L"_G8";
 			this->_G8->Size = System::Drawing::Size(24, 24);
 			this->_G8->TabIndex = 76;
+			this->_G8->TabStop = false;
 			this->_G8->UseVisualStyleBackColor = true;
 			this->_G8->Click += gcnew System::EventHandler(this, &Gracz::button1_Click);
 			// 
@@ -1581,6 +1649,7 @@ namespace WindowsFormApplication1 {
 			this->_E5->Name = L"_E5";
 			this->_E5->Size = System::Drawing::Size(24, 24);
 			this->_E5->TabIndex = 44;
+			this->_E5->TabStop = false;
 			this->_E5->UseVisualStyleBackColor = true;
 			this->_E5->Click += gcnew System::EventHandler(this, &Gracz::button1_Click);
 			// 
@@ -1590,6 +1659,7 @@ namespace WindowsFormApplication1 {
 			this->_F8->Name = L"_F8";
 			this->_F8->Size = System::Drawing::Size(24, 24);
 			this->_F8->TabIndex = 75;
+			this->_F8->TabStop = false;
 			this->_F8->UseVisualStyleBackColor = true;
 			this->_F8->Click += gcnew System::EventHandler(this, &Gracz::button1_Click);
 			// 
@@ -1599,6 +1669,7 @@ namespace WindowsFormApplication1 {
 			this->_F5->Name = L"_F5";
 			this->_F5->Size = System::Drawing::Size(24, 24);
 			this->_F5->TabIndex = 45;
+			this->_F5->TabStop = false;
 			this->_F5->UseVisualStyleBackColor = true;
 			this->_F5->Click += gcnew System::EventHandler(this, &Gracz::button1_Click);
 			// 
@@ -1608,6 +1679,7 @@ namespace WindowsFormApplication1 {
 			this->_E8->Name = L"_E8";
 			this->_E8->Size = System::Drawing::Size(24, 24);
 			this->_E8->TabIndex = 74;
+			this->_E8->TabStop = false;
 			this->_E8->UseVisualStyleBackColor = true;
 			this->_E8->Click += gcnew System::EventHandler(this, &Gracz::button1_Click);
 			// 
@@ -1617,6 +1689,7 @@ namespace WindowsFormApplication1 {
 			this->_G5->Name = L"_G5";
 			this->_G5->Size = System::Drawing::Size(24, 24);
 			this->_G5->TabIndex = 46;
+			this->_G5->TabStop = false;
 			this->_G5->UseVisualStyleBackColor = true;
 			this->_G5->Click += gcnew System::EventHandler(this, &Gracz::button1_Click);
 			// 
@@ -1626,6 +1699,7 @@ namespace WindowsFormApplication1 {
 			this->_D8->Name = L"_D8";
 			this->_D8->Size = System::Drawing::Size(24, 24);
 			this->_D8->TabIndex = 73;
+			this->_D8->TabStop = false;
 			this->_D8->UseVisualStyleBackColor = true;
 			this->_D8->Click += gcnew System::EventHandler(this, &Gracz::button1_Click);
 			// 
@@ -1635,6 +1709,7 @@ namespace WindowsFormApplication1 {
 			this->_H5->Name = L"_H5";
 			this->_H5->Size = System::Drawing::Size(24, 24);
 			this->_H5->TabIndex = 47;
+			this->_H5->TabStop = false;
 			this->_H5->UseVisualStyleBackColor = true;
 			this->_H5->Click += gcnew System::EventHandler(this, &Gracz::button1_Click);
 			// 
@@ -1644,6 +1719,7 @@ namespace WindowsFormApplication1 {
 			this->_C8->Name = L"_C8";
 			this->_C8->Size = System::Drawing::Size(24, 24);
 			this->_C8->TabIndex = 72;
+			this->_C8->TabStop = false;
 			this->_C8->UseVisualStyleBackColor = true;
 			this->_C8->Click += gcnew System::EventHandler(this, &Gracz::button1_Click);
 			// 
@@ -1653,6 +1729,7 @@ namespace WindowsFormApplication1 {
 			this->_I5->Name = L"_I5";
 			this->_I5->Size = System::Drawing::Size(24, 24);
 			this->_I5->TabIndex = 48;
+			this->_I5->TabStop = false;
 			this->_I5->UseVisualStyleBackColor = true;
 			this->_I5->Click += gcnew System::EventHandler(this, &Gracz::button1_Click);
 			// 
@@ -1662,6 +1739,7 @@ namespace WindowsFormApplication1 {
 			this->_B8->Name = L"_B8";
 			this->_B8->Size = System::Drawing::Size(24, 24);
 			this->_B8->TabIndex = 71;
+			this->_B8->TabStop = false;
 			this->_B8->UseVisualStyleBackColor = true;
 			this->_B8->Click += gcnew System::EventHandler(this, &Gracz::button1_Click);
 			// 
@@ -1671,6 +1749,7 @@ namespace WindowsFormApplication1 {
 			this->_J5->Name = L"_J5";
 			this->_J5->Size = System::Drawing::Size(24, 24);
 			this->_J5->TabIndex = 49;
+			this->_J5->TabStop = false;
 			this->_J5->UseVisualStyleBackColor = true;
 			this->_J5->Click += gcnew System::EventHandler(this, &Gracz::button1_Click);
 			// 
@@ -1680,6 +1759,7 @@ namespace WindowsFormApplication1 {
 			this->_A8->Name = L"_A8";
 			this->_A8->Size = System::Drawing::Size(24, 24);
 			this->_A8->TabIndex = 70;
+			this->_A8->TabStop = false;
 			this->_A8->UseVisualStyleBackColor = true;
 			this->_A8->Click += gcnew System::EventHandler(this, &Gracz::button1_Click);
 			// 
@@ -1689,6 +1769,7 @@ namespace WindowsFormApplication1 {
 			this->_A6->Name = L"_A6";
 			this->_A6->Size = System::Drawing::Size(24, 24);
 			this->_A6->TabIndex = 50;
+			this->_A6->TabStop = false;
 			this->_A6->UseVisualStyleBackColor = true;
 			this->_A6->Click += gcnew System::EventHandler(this, &Gracz::button1_Click);
 			// 
@@ -1698,6 +1779,7 @@ namespace WindowsFormApplication1 {
 			this->_J7->Name = L"_J7";
 			this->_J7->Size = System::Drawing::Size(24, 24);
 			this->_J7->TabIndex = 69;
+			this->_J7->TabStop = false;
 			this->_J7->UseVisualStyleBackColor = true;
 			this->_J7->Click += gcnew System::EventHandler(this, &Gracz::button1_Click);
 			// 
@@ -1707,6 +1789,7 @@ namespace WindowsFormApplication1 {
 			this->_B6->Name = L"_B6";
 			this->_B6->Size = System::Drawing::Size(24, 24);
 			this->_B6->TabIndex = 51;
+			this->_B6->TabStop = false;
 			this->_B6->UseVisualStyleBackColor = true;
 			this->_B6->Click += gcnew System::EventHandler(this, &Gracz::button1_Click);
 			// 
@@ -1716,6 +1799,7 @@ namespace WindowsFormApplication1 {
 			this->_I7->Name = L"_I7";
 			this->_I7->Size = System::Drawing::Size(24, 24);
 			this->_I7->TabIndex = 68;
+			this->_I7->TabStop = false;
 			this->_I7->UseVisualStyleBackColor = true;
 			this->_I7->Click += gcnew System::EventHandler(this, &Gracz::button1_Click);
 			// 
@@ -1725,6 +1809,7 @@ namespace WindowsFormApplication1 {
 			this->_C6->Name = L"_C6";
 			this->_C6->Size = System::Drawing::Size(24, 24);
 			this->_C6->TabIndex = 52;
+			this->_C6->TabStop = false;
 			this->_C6->UseVisualStyleBackColor = true;
 			this->_C6->Click += gcnew System::EventHandler(this, &Gracz::button1_Click);
 			// 
@@ -1734,6 +1819,7 @@ namespace WindowsFormApplication1 {
 			this->_H7->Name = L"_H7";
 			this->_H7->Size = System::Drawing::Size(24, 24);
 			this->_H7->TabIndex = 67;
+			this->_H7->TabStop = false;
 			this->_H7->UseVisualStyleBackColor = true;
 			this->_H7->Click += gcnew System::EventHandler(this, &Gracz::button1_Click);
 			// 
@@ -1743,6 +1829,7 @@ namespace WindowsFormApplication1 {
 			this->_D6->Name = L"_D6";
 			this->_D6->Size = System::Drawing::Size(24, 24);
 			this->_D6->TabIndex = 53;
+			this->_D6->TabStop = false;
 			this->_D6->UseVisualStyleBackColor = true;
 			this->_D6->Click += gcnew System::EventHandler(this, &Gracz::button1_Click);
 			// 
@@ -1752,6 +1839,7 @@ namespace WindowsFormApplication1 {
 			this->_G7->Name = L"_G7";
 			this->_G7->Size = System::Drawing::Size(24, 24);
 			this->_G7->TabIndex = 66;
+			this->_G7->TabStop = false;
 			this->_G7->UseVisualStyleBackColor = true;
 			this->_G7->Click += gcnew System::EventHandler(this, &Gracz::button1_Click);
 			// 
@@ -1761,6 +1849,7 @@ namespace WindowsFormApplication1 {
 			this->_E6->Name = L"_E6";
 			this->_E6->Size = System::Drawing::Size(24, 24);
 			this->_E6->TabIndex = 54;
+			this->_E6->TabStop = false;
 			this->_E6->UseVisualStyleBackColor = true;
 			this->_E6->Click += gcnew System::EventHandler(this, &Gracz::button1_Click);
 			// 
@@ -1770,6 +1859,7 @@ namespace WindowsFormApplication1 {
 			this->_F7->Name = L"_F7";
 			this->_F7->Size = System::Drawing::Size(24, 24);
 			this->_F7->TabIndex = 65;
+			this->_F7->TabStop = false;
 			this->_F7->UseVisualStyleBackColor = true;
 			this->_F7->Click += gcnew System::EventHandler(this, &Gracz::button1_Click);
 			// 
@@ -1779,6 +1869,7 @@ namespace WindowsFormApplication1 {
 			this->_F6->Name = L"_F6";
 			this->_F6->Size = System::Drawing::Size(24, 24);
 			this->_F6->TabIndex = 55;
+			this->_F6->TabStop = false;
 			this->_F6->UseVisualStyleBackColor = true;
 			this->_F6->Click += gcnew System::EventHandler(this, &Gracz::button1_Click);
 			// 
@@ -1788,6 +1879,7 @@ namespace WindowsFormApplication1 {
 			this->_E7->Name = L"_E7";
 			this->_E7->Size = System::Drawing::Size(24, 24);
 			this->_E7->TabIndex = 64;
+			this->_E7->TabStop = false;
 			this->_E7->UseVisualStyleBackColor = true;
 			this->_E7->Click += gcnew System::EventHandler(this, &Gracz::button1_Click);
 			// 
@@ -1797,6 +1889,7 @@ namespace WindowsFormApplication1 {
 			this->_G6->Name = L"_G6";
 			this->_G6->Size = System::Drawing::Size(24, 24);
 			this->_G6->TabIndex = 56;
+			this->_G6->TabStop = false;
 			this->_G6->UseVisualStyleBackColor = true;
 			this->_G6->Click += gcnew System::EventHandler(this, &Gracz::button1_Click);
 			// 
@@ -1806,6 +1899,7 @@ namespace WindowsFormApplication1 {
 			this->_D7->Name = L"_D7";
 			this->_D7->Size = System::Drawing::Size(24, 24);
 			this->_D7->TabIndex = 63;
+			this->_D7->TabStop = false;
 			this->_D7->UseVisualStyleBackColor = true;
 			this->_D7->Click += gcnew System::EventHandler(this, &Gracz::button1_Click);
 			// 
@@ -1815,6 +1909,7 @@ namespace WindowsFormApplication1 {
 			this->_H6->Name = L"_H6";
 			this->_H6->Size = System::Drawing::Size(24, 24);
 			this->_H6->TabIndex = 57;
+			this->_H6->TabStop = false;
 			this->_H6->UseVisualStyleBackColor = true;
 			this->_H6->Click += gcnew System::EventHandler(this, &Gracz::button1_Click);
 			// 
@@ -1824,6 +1919,7 @@ namespace WindowsFormApplication1 {
 			this->_C7->Name = L"_C7";
 			this->_C7->Size = System::Drawing::Size(24, 24);
 			this->_C7->TabIndex = 62;
+			this->_C7->TabStop = false;
 			this->_C7->UseVisualStyleBackColor = true;
 			this->_C7->Click += gcnew System::EventHandler(this, &Gracz::button1_Click);
 			// 
@@ -1833,6 +1929,7 @@ namespace WindowsFormApplication1 {
 			this->_I6->Name = L"_I6";
 			this->_I6->Size = System::Drawing::Size(24, 24);
 			this->_I6->TabIndex = 58;
+			this->_I6->TabStop = false;
 			this->_I6->UseVisualStyleBackColor = true;
 			this->_I6->Click += gcnew System::EventHandler(this, &Gracz::button1_Click);
 			// 
@@ -1842,6 +1939,7 @@ namespace WindowsFormApplication1 {
 			this->_B7->Name = L"_B7";
 			this->_B7->Size = System::Drawing::Size(24, 24);
 			this->_B7->TabIndex = 61;
+			this->_B7->TabStop = false;
 			this->_B7->UseVisualStyleBackColor = true;
 			this->_B7->Click += gcnew System::EventHandler(this, &Gracz::button1_Click);
 			// 
@@ -1851,6 +1949,7 @@ namespace WindowsFormApplication1 {
 			this->_J6->Name = L"_J6";
 			this->_J6->Size = System::Drawing::Size(24, 24);
 			this->_J6->TabIndex = 59;
+			this->_J6->TabStop = false;
 			this->_J6->UseVisualStyleBackColor = true;
 			this->_J6->Click += gcnew System::EventHandler(this, &Gracz::button1_Click);
 			// 
@@ -1860,6 +1959,7 @@ namespace WindowsFormApplication1 {
 			this->_A7->Name = L"_A7";
 			this->_A7->Size = System::Drawing::Size(24, 24);
 			this->_A7->TabIndex = 60;
+			this->_A7->TabStop = false;
 			this->_A7->UseVisualStyleBackColor = true;
 			this->_A7->Click += gcnew System::EventHandler(this, &Gracz::button1_Click);
 			// 
@@ -1996,6 +2096,7 @@ namespace WindowsFormApplication1 {
 			this->D1->Name = L"D1";
 			this->D1->Size = System::Drawing::Size(24, 24);
 			this->D1->TabIndex = 3;
+			this->D1->TabStop = false;
 			this->D1->UseVisualStyleBackColor = true;
 			this->D1->Click += gcnew System::EventHandler(this, &Gracz::button2_Click);
 			// 
@@ -2014,6 +2115,7 @@ namespace WindowsFormApplication1 {
 			this->A1->Name = L"A1";
 			this->A1->Size = System::Drawing::Size(24, 24);
 			this->A1->TabIndex = 0;
+			this->A1->TabStop = false;
 			this->A1->UseVisualStyleBackColor = true;
 			this->A1->Click += gcnew System::EventHandler(this, &Gracz::button2_Click);
 			// 
@@ -2032,6 +2134,7 @@ namespace WindowsFormApplication1 {
 			this->B1->Name = L"B1";
 			this->B1->Size = System::Drawing::Size(24, 24);
 			this->B1->TabIndex = 1;
+			this->B1->TabStop = false;
 			this->B1->UseVisualStyleBackColor = true;
 			this->B1->Click += gcnew System::EventHandler(this, &Gracz::button2_Click);
 			// 
@@ -2050,6 +2153,7 @@ namespace WindowsFormApplication1 {
 			this->C1->Name = L"C1";
 			this->C1->Size = System::Drawing::Size(24, 24);
 			this->C1->TabIndex = 2;
+			this->C1->TabStop = false;
 			this->C1->UseVisualStyleBackColor = true;
 			this->C1->Click += gcnew System::EventHandler(this, &Gracz::button2_Click);
 			// 
@@ -2068,6 +2172,7 @@ namespace WindowsFormApplication1 {
 			this->E1->Name = L"E1";
 			this->E1->Size = System::Drawing::Size(24, 24);
 			this->E1->TabIndex = 4;
+			this->E1->TabStop = false;
 			this->E1->UseVisualStyleBackColor = true;
 			this->E1->Click += gcnew System::EventHandler(this, &Gracz::button2_Click);
 			// 
@@ -2086,6 +2191,7 @@ namespace WindowsFormApplication1 {
 			this->F1->Name = L"F1";
 			this->F1->Size = System::Drawing::Size(24, 24);
 			this->F1->TabIndex = 5;
+			this->F1->TabStop = false;
 			this->F1->UseVisualStyleBackColor = true;
 			this->F1->Click += gcnew System::EventHandler(this, &Gracz::button2_Click);
 			// 
@@ -2104,6 +2210,7 @@ namespace WindowsFormApplication1 {
 			this->G1->Name = L"G1";
 			this->G1->Size = System::Drawing::Size(24, 24);
 			this->G1->TabIndex = 6;
+			this->G1->TabStop = false;
 			this->G1->UseVisualStyleBackColor = true;
 			this->G1->Click += gcnew System::EventHandler(this, &Gracz::button2_Click);
 			// 
@@ -2122,6 +2229,7 @@ namespace WindowsFormApplication1 {
 			this->H1->Name = L"H1";
 			this->H1->Size = System::Drawing::Size(24, 24);
 			this->H1->TabIndex = 7;
+			this->H1->TabStop = false;
 			this->H1->UseVisualStyleBackColor = true;
 			this->H1->Click += gcnew System::EventHandler(this, &Gracz::button2_Click);
 			// 
@@ -2140,6 +2248,7 @@ namespace WindowsFormApplication1 {
 			this->I1->Name = L"I1";
 			this->I1->Size = System::Drawing::Size(24, 24);
 			this->I1->TabIndex = 8;
+			this->I1->TabStop = false;
 			this->I1->UseVisualStyleBackColor = true;
 			this->I1->Click += gcnew System::EventHandler(this, &Gracz::button2_Click);
 			// 
@@ -2158,6 +2267,7 @@ namespace WindowsFormApplication1 {
 			this->J1->Name = L"J1";
 			this->J1->Size = System::Drawing::Size(24, 24);
 			this->J1->TabIndex = 9;
+			this->J1->TabStop = false;
 			this->J1->UseVisualStyleBackColor = true;
 			this->J1->Click += gcnew System::EventHandler(this, &Gracz::button2_Click);
 			// 
@@ -2176,6 +2286,7 @@ namespace WindowsFormApplication1 {
 			this->A2->Name = L"A2";
 			this->A2->Size = System::Drawing::Size(24, 24);
 			this->A2->TabIndex = 10;
+			this->A2->TabStop = false;
 			this->A2->UseVisualStyleBackColor = true;
 			this->A2->Click += gcnew System::EventHandler(this, &Gracz::button2_Click);
 			// 
@@ -2194,6 +2305,7 @@ namespace WindowsFormApplication1 {
 			this->B2->Name = L"B2";
 			this->B2->Size = System::Drawing::Size(24, 24);
 			this->B2->TabIndex = 11;
+			this->B2->TabStop = false;
 			this->B2->UseVisualStyleBackColor = true;
 			this->B2->Click += gcnew System::EventHandler(this, &Gracz::button2_Click);
 			// 
@@ -2212,6 +2324,7 @@ namespace WindowsFormApplication1 {
 			this->C2->Name = L"C2";
 			this->C2->Size = System::Drawing::Size(24, 24);
 			this->C2->TabIndex = 12;
+			this->C2->TabStop = false;
 			this->C2->UseVisualStyleBackColor = true;
 			this->C2->Click += gcnew System::EventHandler(this, &Gracz::button2_Click);
 			// 
@@ -2230,6 +2343,7 @@ namespace WindowsFormApplication1 {
 			this->D2->Name = L"D2";
 			this->D2->Size = System::Drawing::Size(24, 24);
 			this->D2->TabIndex = 13;
+			this->D2->TabStop = false;
 			this->D2->UseVisualStyleBackColor = true;
 			this->D2->Click += gcnew System::EventHandler(this, &Gracz::button2_Click);
 			// 
@@ -2248,6 +2362,7 @@ namespace WindowsFormApplication1 {
 			this->E2->Name = L"E2";
 			this->E2->Size = System::Drawing::Size(24, 24);
 			this->E2->TabIndex = 14;
+			this->E2->TabStop = false;
 			this->E2->UseVisualStyleBackColor = true;
 			this->E2->Click += gcnew System::EventHandler(this, &Gracz::button2_Click);
 			// 
@@ -2266,6 +2381,7 @@ namespace WindowsFormApplication1 {
 			this->F2->Name = L"F2";
 			this->F2->Size = System::Drawing::Size(24, 24);
 			this->F2->TabIndex = 15;
+			this->F2->TabStop = false;
 			this->F2->UseVisualStyleBackColor = true;
 			this->F2->Click += gcnew System::EventHandler(this, &Gracz::button2_Click);
 			// 
@@ -2284,6 +2400,7 @@ namespace WindowsFormApplication1 {
 			this->G2->Name = L"G2";
 			this->G2->Size = System::Drawing::Size(24, 24);
 			this->G2->TabIndex = 16;
+			this->G2->TabStop = false;
 			this->G2->UseVisualStyleBackColor = true;
 			this->G2->Click += gcnew System::EventHandler(this, &Gracz::button2_Click);
 			// 
@@ -2302,6 +2419,7 @@ namespace WindowsFormApplication1 {
 			this->H2->Name = L"H2";
 			this->H2->Size = System::Drawing::Size(24, 24);
 			this->H2->TabIndex = 17;
+			this->H2->TabStop = false;
 			this->H2->UseVisualStyleBackColor = true;
 			this->H2->Click += gcnew System::EventHandler(this, &Gracz::button2_Click);
 			// 
@@ -2320,6 +2438,7 @@ namespace WindowsFormApplication1 {
 			this->I2->Name = L"I2";
 			this->I2->Size = System::Drawing::Size(24, 24);
 			this->I2->TabIndex = 18;
+			this->I2->TabStop = false;
 			this->I2->UseVisualStyleBackColor = true;
 			this->I2->Click += gcnew System::EventHandler(this, &Gracz::button2_Click);
 			// 
@@ -2338,6 +2457,7 @@ namespace WindowsFormApplication1 {
 			this->J2->Name = L"J2";
 			this->J2->Size = System::Drawing::Size(24, 24);
 			this->J2->TabIndex = 19;
+			this->J2->TabStop = false;
 			this->J2->UseVisualStyleBackColor = true;
 			this->J2->Click += gcnew System::EventHandler(this, &Gracz::button2_Click);
 			// 
@@ -2356,6 +2476,7 @@ namespace WindowsFormApplication1 {
 			this->A3->Name = L"A3";
 			this->A3->Size = System::Drawing::Size(24, 24);
 			this->A3->TabIndex = 20;
+			this->A3->TabStop = false;
 			this->A3->UseVisualStyleBackColor = true;
 			this->A3->Click += gcnew System::EventHandler(this, &Gracz::button2_Click);
 			// 
@@ -2365,6 +2486,7 @@ namespace WindowsFormApplication1 {
 			this->J10->Name = L"J10";
 			this->J10->Size = System::Drawing::Size(24, 24);
 			this->J10->TabIndex = 99;
+			this->J10->TabStop = false;
 			this->J10->UseVisualStyleBackColor = true;
 			this->J10->Click += gcnew System::EventHandler(this, &Gracz::button2_Click);
 			// 
@@ -2374,6 +2496,7 @@ namespace WindowsFormApplication1 {
 			this->B3->Name = L"B3";
 			this->B3->Size = System::Drawing::Size(24, 24);
 			this->B3->TabIndex = 21;
+			this->B3->TabStop = false;
 			this->B3->UseVisualStyleBackColor = true;
 			this->B3->Click += gcnew System::EventHandler(this, &Gracz::button2_Click);
 			// 
@@ -2383,6 +2506,7 @@ namespace WindowsFormApplication1 {
 			this->I10->Name = L"I10";
 			this->I10->Size = System::Drawing::Size(24, 24);
 			this->I10->TabIndex = 98;
+			this->I10->TabStop = false;
 			this->I10->UseVisualStyleBackColor = true;
 			this->I10->Click += gcnew System::EventHandler(this, &Gracz::button2_Click);
 			// 
@@ -2392,6 +2516,7 @@ namespace WindowsFormApplication1 {
 			this->C3->Name = L"C3";
 			this->C3->Size = System::Drawing::Size(24, 24);
 			this->C3->TabIndex = 22;
+			this->C3->TabStop = false;
 			this->C3->UseVisualStyleBackColor = true;
 			this->C3->Click += gcnew System::EventHandler(this, &Gracz::button2_Click);
 			// 
@@ -2401,6 +2526,7 @@ namespace WindowsFormApplication1 {
 			this->H10->Name = L"H10";
 			this->H10->Size = System::Drawing::Size(24, 24);
 			this->H10->TabIndex = 97;
+			this->H10->TabStop = false;
 			this->H10->UseVisualStyleBackColor = true;
 			this->H10->Click += gcnew System::EventHandler(this, &Gracz::button2_Click);
 			// 
@@ -2410,6 +2536,7 @@ namespace WindowsFormApplication1 {
 			this->D3->Name = L"D3";
 			this->D3->Size = System::Drawing::Size(24, 24);
 			this->D3->TabIndex = 23;
+			this->D3->TabStop = false;
 			this->D3->UseVisualStyleBackColor = true;
 			this->D3->Click += gcnew System::EventHandler(this, &Gracz::button2_Click);
 			// 
@@ -2419,6 +2546,7 @@ namespace WindowsFormApplication1 {
 			this->G10->Name = L"G10";
 			this->G10->Size = System::Drawing::Size(24, 24);
 			this->G10->TabIndex = 96;
+			this->G10->TabStop = false;
 			this->G10->UseVisualStyleBackColor = true;
 			this->G10->Click += gcnew System::EventHandler(this, &Gracz::button2_Click);
 			// 
@@ -2428,6 +2556,7 @@ namespace WindowsFormApplication1 {
 			this->E3->Name = L"E3";
 			this->E3->Size = System::Drawing::Size(24, 24);
 			this->E3->TabIndex = 24;
+			this->E3->TabStop = false;
 			this->E3->UseVisualStyleBackColor = true;
 			this->E3->Click += gcnew System::EventHandler(this, &Gracz::button2_Click);
 			// 
@@ -2437,6 +2566,7 @@ namespace WindowsFormApplication1 {
 			this->F10->Name = L"F10";
 			this->F10->Size = System::Drawing::Size(24, 24);
 			this->F10->TabIndex = 95;
+			this->F10->TabStop = false;
 			this->F10->UseVisualStyleBackColor = true;
 			this->F10->Click += gcnew System::EventHandler(this, &Gracz::button2_Click);
 			// 
@@ -2446,6 +2576,7 @@ namespace WindowsFormApplication1 {
 			this->F3->Name = L"F3";
 			this->F3->Size = System::Drawing::Size(24, 24);
 			this->F3->TabIndex = 25;
+			this->F3->TabStop = false;
 			this->F3->UseVisualStyleBackColor = true;
 			this->F3->Click += gcnew System::EventHandler(this, &Gracz::button2_Click);
 			// 
@@ -2455,6 +2586,7 @@ namespace WindowsFormApplication1 {
 			this->E10->Name = L"E10";
 			this->E10->Size = System::Drawing::Size(24, 24);
 			this->E10->TabIndex = 94;
+			this->E10->TabStop = false;
 			this->E10->UseVisualStyleBackColor = true;
 			this->E10->Click += gcnew System::EventHandler(this, &Gracz::button2_Click);
 			// 
@@ -2464,6 +2596,7 @@ namespace WindowsFormApplication1 {
 			this->G3->Name = L"G3";
 			this->G3->Size = System::Drawing::Size(24, 24);
 			this->G3->TabIndex = 26;
+			this->G3->TabStop = false;
 			this->G3->UseVisualStyleBackColor = true;
 			this->G3->Click += gcnew System::EventHandler(this, &Gracz::button2_Click);
 			// 
@@ -2473,6 +2606,7 @@ namespace WindowsFormApplication1 {
 			this->D10->Name = L"D10";
 			this->D10->Size = System::Drawing::Size(24, 24);
 			this->D10->TabIndex = 93;
+			this->D10->TabStop = false;
 			this->D10->UseVisualStyleBackColor = true;
 			this->D10->Click += gcnew System::EventHandler(this, &Gracz::button2_Click);
 			// 
@@ -2482,6 +2616,7 @@ namespace WindowsFormApplication1 {
 			this->H3->Name = L"H3";
 			this->H3->Size = System::Drawing::Size(24, 24);
 			this->H3->TabIndex = 27;
+			this->H3->TabStop = false;
 			this->H3->UseVisualStyleBackColor = true;
 			this->H3->Click += gcnew System::EventHandler(this, &Gracz::button2_Click);
 			// 
@@ -2491,6 +2626,7 @@ namespace WindowsFormApplication1 {
 			this->C10->Name = L"C10";
 			this->C10->Size = System::Drawing::Size(24, 24);
 			this->C10->TabIndex = 92;
+			this->C10->TabStop = false;
 			this->C10->UseVisualStyleBackColor = true;
 			this->C10->Click += gcnew System::EventHandler(this, &Gracz::button2_Click);
 			// 
@@ -2500,6 +2636,7 @@ namespace WindowsFormApplication1 {
 			this->I3->Name = L"I3";
 			this->I3->Size = System::Drawing::Size(24, 24);
 			this->I3->TabIndex = 28;
+			this->I3->TabStop = false;
 			this->I3->UseVisualStyleBackColor = true;
 			this->I3->Click += gcnew System::EventHandler(this, &Gracz::button2_Click);
 			// 
@@ -2509,6 +2646,7 @@ namespace WindowsFormApplication1 {
 			this->B10->Name = L"B10";
 			this->B10->Size = System::Drawing::Size(24, 24);
 			this->B10->TabIndex = 91;
+			this->B10->TabStop = false;
 			this->B10->UseVisualStyleBackColor = true;
 			this->B10->Click += gcnew System::EventHandler(this, &Gracz::button2_Click);
 			// 
@@ -2518,6 +2656,7 @@ namespace WindowsFormApplication1 {
 			this->J3->Name = L"J3";
 			this->J3->Size = System::Drawing::Size(24, 24);
 			this->J3->TabIndex = 29;
+			this->J3->TabStop = false;
 			this->J3->UseVisualStyleBackColor = true;
 			this->J3->Click += gcnew System::EventHandler(this, &Gracz::button2_Click);
 			// 
@@ -2527,6 +2666,7 @@ namespace WindowsFormApplication1 {
 			this->A10->Name = L"A10";
 			this->A10->Size = System::Drawing::Size(24, 24);
 			this->A10->TabIndex = 90;
+			this->A10->TabStop = false;
 			this->A10->UseVisualStyleBackColor = true;
 			this->A10->Click += gcnew System::EventHandler(this, &Gracz::button2_Click);
 			// 
@@ -2536,6 +2676,7 @@ namespace WindowsFormApplication1 {
 			this->A4->Name = L"A4";
 			this->A4->Size = System::Drawing::Size(24, 24);
 			this->A4->TabIndex = 30;
+			this->A4->TabStop = false;
 			this->A4->UseVisualStyleBackColor = true;
 			this->A4->Click += gcnew System::EventHandler(this, &Gracz::button2_Click);
 			// 
@@ -2545,6 +2686,7 @@ namespace WindowsFormApplication1 {
 			this->J9->Name = L"J9";
 			this->J9->Size = System::Drawing::Size(24, 24);
 			this->J9->TabIndex = 89;
+			this->J9->TabStop = false;
 			this->J9->UseVisualStyleBackColor = true;
 			this->J9->Click += gcnew System::EventHandler(this, &Gracz::button2_Click);
 			// 
@@ -2554,6 +2696,7 @@ namespace WindowsFormApplication1 {
 			this->B4->Name = L"B4";
 			this->B4->Size = System::Drawing::Size(24, 24);
 			this->B4->TabIndex = 31;
+			this->B4->TabStop = false;
 			this->B4->UseVisualStyleBackColor = true;
 			this->B4->Click += gcnew System::EventHandler(this, &Gracz::button2_Click);
 			// 
@@ -2563,6 +2706,7 @@ namespace WindowsFormApplication1 {
 			this->I9->Name = L"I9";
 			this->I9->Size = System::Drawing::Size(24, 24);
 			this->I9->TabIndex = 88;
+			this->I9->TabStop = false;
 			this->I9->UseVisualStyleBackColor = true;
 			this->I9->Click += gcnew System::EventHandler(this, &Gracz::button2_Click);
 			// 
@@ -2572,6 +2716,7 @@ namespace WindowsFormApplication1 {
 			this->C4->Name = L"C4";
 			this->C4->Size = System::Drawing::Size(24, 24);
 			this->C4->TabIndex = 32;
+			this->C4->TabStop = false;
 			this->C4->UseVisualStyleBackColor = true;
 			this->C4->Click += gcnew System::EventHandler(this, &Gracz::button2_Click);
 			// 
@@ -2581,6 +2726,7 @@ namespace WindowsFormApplication1 {
 			this->H9->Name = L"H9";
 			this->H9->Size = System::Drawing::Size(24, 24);
 			this->H9->TabIndex = 87;
+			this->H9->TabStop = false;
 			this->H9->UseVisualStyleBackColor = true;
 			this->H9->Click += gcnew System::EventHandler(this, &Gracz::button2_Click);
 			// 
@@ -2590,6 +2736,7 @@ namespace WindowsFormApplication1 {
 			this->D4->Name = L"D4";
 			this->D4->Size = System::Drawing::Size(24, 24);
 			this->D4->TabIndex = 33;
+			this->D4->TabStop = false;
 			this->D4->UseVisualStyleBackColor = true;
 			this->D4->Click += gcnew System::EventHandler(this, &Gracz::button2_Click);
 			// 
@@ -2599,6 +2746,7 @@ namespace WindowsFormApplication1 {
 			this->G9->Name = L"G9";
 			this->G9->Size = System::Drawing::Size(24, 24);
 			this->G9->TabIndex = 86;
+			this->G9->TabStop = false;
 			this->G9->UseVisualStyleBackColor = true;
 			this->G9->Click += gcnew System::EventHandler(this, &Gracz::button2_Click);
 			// 
@@ -2608,6 +2756,7 @@ namespace WindowsFormApplication1 {
 			this->E4->Name = L"E4";
 			this->E4->Size = System::Drawing::Size(24, 24);
 			this->E4->TabIndex = 34;
+			this->E4->TabStop = false;
 			this->E4->UseVisualStyleBackColor = true;
 			this->E4->Click += gcnew System::EventHandler(this, &Gracz::button2_Click);
 			// 
@@ -2617,6 +2766,7 @@ namespace WindowsFormApplication1 {
 			this->F9->Name = L"F9";
 			this->F9->Size = System::Drawing::Size(24, 24);
 			this->F9->TabIndex = 85;
+			this->F9->TabStop = false;
 			this->F9->UseVisualStyleBackColor = true;
 			this->F9->Click += gcnew System::EventHandler(this, &Gracz::button2_Click);
 			// 
@@ -2626,6 +2776,7 @@ namespace WindowsFormApplication1 {
 			this->F4->Name = L"F4";
 			this->F4->Size = System::Drawing::Size(24, 24);
 			this->F4->TabIndex = 35;
+			this->F4->TabStop = false;
 			this->F4->UseVisualStyleBackColor = true;
 			this->F4->Click += gcnew System::EventHandler(this, &Gracz::button2_Click);
 			// 
@@ -2635,6 +2786,7 @@ namespace WindowsFormApplication1 {
 			this->E9->Name = L"E9";
 			this->E9->Size = System::Drawing::Size(24, 24);
 			this->E9->TabIndex = 84;
+			this->E9->TabStop = false;
 			this->E9->UseVisualStyleBackColor = true;
 			this->E9->Click += gcnew System::EventHandler(this, &Gracz::button2_Click);
 			// 
@@ -2644,6 +2796,7 @@ namespace WindowsFormApplication1 {
 			this->G4->Name = L"G4";
 			this->G4->Size = System::Drawing::Size(24, 24);
 			this->G4->TabIndex = 36;
+			this->G4->TabStop = false;
 			this->G4->UseVisualStyleBackColor = true;
 			this->G4->Click += gcnew System::EventHandler(this, &Gracz::button2_Click);
 			// 
@@ -2653,6 +2806,7 @@ namespace WindowsFormApplication1 {
 			this->D9->Name = L"D9";
 			this->D9->Size = System::Drawing::Size(24, 24);
 			this->D9->TabIndex = 83;
+			this->D9->TabStop = false;
 			this->D9->UseVisualStyleBackColor = true;
 			this->D9->Click += gcnew System::EventHandler(this, &Gracz::button2_Click);
 			// 
@@ -2662,6 +2816,7 @@ namespace WindowsFormApplication1 {
 			this->H4->Name = L"H4";
 			this->H4->Size = System::Drawing::Size(24, 24);
 			this->H4->TabIndex = 37;
+			this->H4->TabStop = false;
 			this->H4->UseVisualStyleBackColor = true;
 			this->H4->Click += gcnew System::EventHandler(this, &Gracz::button2_Click);
 			// 
@@ -2671,6 +2826,7 @@ namespace WindowsFormApplication1 {
 			this->C9->Name = L"C9";
 			this->C9->Size = System::Drawing::Size(24, 24);
 			this->C9->TabIndex = 82;
+			this->C9->TabStop = false;
 			this->C9->UseVisualStyleBackColor = true;
 			this->C9->Click += gcnew System::EventHandler(this, &Gracz::button2_Click);
 			// 
@@ -2680,6 +2836,7 @@ namespace WindowsFormApplication1 {
 			this->I4->Name = L"I4";
 			this->I4->Size = System::Drawing::Size(24, 24);
 			this->I4->TabIndex = 38;
+			this->I4->TabStop = false;
 			this->I4->UseVisualStyleBackColor = true;
 			this->I4->Click += gcnew System::EventHandler(this, &Gracz::button2_Click);
 			// 
@@ -2689,6 +2846,7 @@ namespace WindowsFormApplication1 {
 			this->B9->Name = L"B9";
 			this->B9->Size = System::Drawing::Size(24, 24);
 			this->B9->TabIndex = 81;
+			this->B9->TabStop = false;
 			this->B9->UseVisualStyleBackColor = true;
 			this->B9->Click += gcnew System::EventHandler(this, &Gracz::button2_Click);
 			// 
@@ -2698,6 +2856,7 @@ namespace WindowsFormApplication1 {
 			this->J4->Name = L"J4";
 			this->J4->Size = System::Drawing::Size(24, 24);
 			this->J4->TabIndex = 39;
+			this->J4->TabStop = false;
 			this->J4->UseVisualStyleBackColor = true;
 			this->J4->Click += gcnew System::EventHandler(this, &Gracz::button2_Click);
 			// 
@@ -2707,6 +2866,7 @@ namespace WindowsFormApplication1 {
 			this->A9->Name = L"A9";
 			this->A9->Size = System::Drawing::Size(24, 24);
 			this->A9->TabIndex = 80;
+			this->A9->TabStop = false;
 			this->A9->UseVisualStyleBackColor = true;
 			this->A9->Click += gcnew System::EventHandler(this, &Gracz::button2_Click);
 			// 
@@ -2716,6 +2876,7 @@ namespace WindowsFormApplication1 {
 			this->A5->Name = L"A5";
 			this->A5->Size = System::Drawing::Size(24, 24);
 			this->A5->TabIndex = 40;
+			this->A5->TabStop = false;
 			this->A5->UseVisualStyleBackColor = true;
 			this->A5->Click += gcnew System::EventHandler(this, &Gracz::button2_Click);
 			// 
@@ -2725,6 +2886,7 @@ namespace WindowsFormApplication1 {
 			this->J8->Name = L"J8";
 			this->J8->Size = System::Drawing::Size(24, 24);
 			this->J8->TabIndex = 79;
+			this->J8->TabStop = false;
 			this->J8->UseVisualStyleBackColor = true;
 			this->J8->Click += gcnew System::EventHandler(this, &Gracz::button2_Click);
 			// 
@@ -2734,6 +2896,7 @@ namespace WindowsFormApplication1 {
 			this->B5->Name = L"B5";
 			this->B5->Size = System::Drawing::Size(24, 24);
 			this->B5->TabIndex = 41;
+			this->B5->TabStop = false;
 			this->B5->UseVisualStyleBackColor = true;
 			this->B5->Click += gcnew System::EventHandler(this, &Gracz::button2_Click);
 			// 
@@ -2743,6 +2906,7 @@ namespace WindowsFormApplication1 {
 			this->I8->Name = L"I8";
 			this->I8->Size = System::Drawing::Size(24, 24);
 			this->I8->TabIndex = 78;
+			this->I8->TabStop = false;
 			this->I8->UseVisualStyleBackColor = true;
 			this->I8->Click += gcnew System::EventHandler(this, &Gracz::button2_Click);
 			// 
@@ -2752,6 +2916,7 @@ namespace WindowsFormApplication1 {
 			this->C5->Name = L"C5";
 			this->C5->Size = System::Drawing::Size(24, 24);
 			this->C5->TabIndex = 42;
+			this->C5->TabStop = false;
 			this->C5->UseVisualStyleBackColor = true;
 			this->C5->Click += gcnew System::EventHandler(this, &Gracz::button2_Click);
 			// 
@@ -2761,6 +2926,7 @@ namespace WindowsFormApplication1 {
 			this->H8->Name = L"H8";
 			this->H8->Size = System::Drawing::Size(24, 24);
 			this->H8->TabIndex = 77;
+			this->H8->TabStop = false;
 			this->H8->UseVisualStyleBackColor = true;
 			this->H8->Click += gcnew System::EventHandler(this, &Gracz::button2_Click);
 			// 
@@ -2770,6 +2936,7 @@ namespace WindowsFormApplication1 {
 			this->D5->Name = L"D5";
 			this->D5->Size = System::Drawing::Size(24, 24);
 			this->D5->TabIndex = 43;
+			this->D5->TabStop = false;
 			this->D5->UseVisualStyleBackColor = true;
 			this->D5->Click += gcnew System::EventHandler(this, &Gracz::button2_Click);
 			// 
@@ -2779,6 +2946,7 @@ namespace WindowsFormApplication1 {
 			this->G8->Name = L"G8";
 			this->G8->Size = System::Drawing::Size(24, 24);
 			this->G8->TabIndex = 76;
+			this->G8->TabStop = false;
 			this->G8->UseVisualStyleBackColor = true;
 			this->G8->Click += gcnew System::EventHandler(this, &Gracz::button2_Click);
 			// 
@@ -2788,6 +2956,7 @@ namespace WindowsFormApplication1 {
 			this->E5->Name = L"E5";
 			this->E5->Size = System::Drawing::Size(24, 24);
 			this->E5->TabIndex = 44;
+			this->E5->TabStop = false;
 			this->E5->UseVisualStyleBackColor = true;
 			this->E5->Click += gcnew System::EventHandler(this, &Gracz::button2_Click);
 			// 
@@ -2797,6 +2966,7 @@ namespace WindowsFormApplication1 {
 			this->F8->Name = L"F8";
 			this->F8->Size = System::Drawing::Size(24, 24);
 			this->F8->TabIndex = 75;
+			this->F8->TabStop = false;
 			this->F8->UseVisualStyleBackColor = true;
 			this->F8->Click += gcnew System::EventHandler(this, &Gracz::button2_Click);
 			// 
@@ -2806,6 +2976,7 @@ namespace WindowsFormApplication1 {
 			this->F5->Name = L"F5";
 			this->F5->Size = System::Drawing::Size(24, 24);
 			this->F5->TabIndex = 45;
+			this->F5->TabStop = false;
 			this->F5->UseVisualStyleBackColor = true;
 			this->F5->Click += gcnew System::EventHandler(this, &Gracz::button2_Click);
 			// 
@@ -2815,6 +2986,7 @@ namespace WindowsFormApplication1 {
 			this->E8->Name = L"E8";
 			this->E8->Size = System::Drawing::Size(24, 24);
 			this->E8->TabIndex = 74;
+			this->E8->TabStop = false;
 			this->E8->UseVisualStyleBackColor = true;
 			this->E8->Click += gcnew System::EventHandler(this, &Gracz::button2_Click);
 			// 
@@ -2824,6 +2996,7 @@ namespace WindowsFormApplication1 {
 			this->G5->Name = L"G5";
 			this->G5->Size = System::Drawing::Size(24, 24);
 			this->G5->TabIndex = 46;
+			this->G5->TabStop = false;
 			this->G5->UseVisualStyleBackColor = true;
 			this->G5->Click += gcnew System::EventHandler(this, &Gracz::button2_Click);
 			// 
@@ -2833,6 +3006,7 @@ namespace WindowsFormApplication1 {
 			this->D8->Name = L"D8";
 			this->D8->Size = System::Drawing::Size(24, 24);
 			this->D8->TabIndex = 73;
+			this->D8->TabStop = false;
 			this->D8->UseVisualStyleBackColor = true;
 			this->D8->Click += gcnew System::EventHandler(this, &Gracz::button2_Click);
 			// 
@@ -2842,6 +3016,7 @@ namespace WindowsFormApplication1 {
 			this->H5->Name = L"H5";
 			this->H5->Size = System::Drawing::Size(24, 24);
 			this->H5->TabIndex = 47;
+			this->H5->TabStop = false;
 			this->H5->UseVisualStyleBackColor = true;
 			this->H5->Click += gcnew System::EventHandler(this, &Gracz::button2_Click);
 			// 
@@ -2851,6 +3026,7 @@ namespace WindowsFormApplication1 {
 			this->C8->Name = L"C8";
 			this->C8->Size = System::Drawing::Size(24, 24);
 			this->C8->TabIndex = 72;
+			this->C8->TabStop = false;
 			this->C8->UseVisualStyleBackColor = true;
 			this->C8->Click += gcnew System::EventHandler(this, &Gracz::button2_Click);
 			// 
@@ -2860,6 +3036,7 @@ namespace WindowsFormApplication1 {
 			this->I5->Name = L"I5";
 			this->I5->Size = System::Drawing::Size(24, 24);
 			this->I5->TabIndex = 48;
+			this->I5->TabStop = false;
 			this->I5->UseVisualStyleBackColor = true;
 			this->I5->Click += gcnew System::EventHandler(this, &Gracz::button2_Click);
 			// 
@@ -2869,6 +3046,7 @@ namespace WindowsFormApplication1 {
 			this->B8->Name = L"B8";
 			this->B8->Size = System::Drawing::Size(24, 24);
 			this->B8->TabIndex = 71;
+			this->B8->TabStop = false;
 			this->B8->UseVisualStyleBackColor = true;
 			this->B8->Click += gcnew System::EventHandler(this, &Gracz::button2_Click);
 			// 
@@ -2878,6 +3056,7 @@ namespace WindowsFormApplication1 {
 			this->J5->Name = L"J5";
 			this->J5->Size = System::Drawing::Size(24, 24);
 			this->J5->TabIndex = 49;
+			this->J5->TabStop = false;
 			this->J5->UseVisualStyleBackColor = true;
 			this->J5->Click += gcnew System::EventHandler(this, &Gracz::button2_Click);
 			// 
@@ -2887,6 +3066,7 @@ namespace WindowsFormApplication1 {
 			this->A8->Name = L"A8";
 			this->A8->Size = System::Drawing::Size(24, 24);
 			this->A8->TabIndex = 70;
+			this->A8->TabStop = false;
 			this->A8->UseVisualStyleBackColor = true;
 			this->A8->Click += gcnew System::EventHandler(this, &Gracz::button2_Click);
 			// 
@@ -2896,6 +3076,7 @@ namespace WindowsFormApplication1 {
 			this->A6->Name = L"A6";
 			this->A6->Size = System::Drawing::Size(24, 24);
 			this->A6->TabIndex = 50;
+			this->A6->TabStop = false;
 			this->A6->UseVisualStyleBackColor = true;
 			this->A6->Click += gcnew System::EventHandler(this, &Gracz::button2_Click);
 			// 
@@ -2905,6 +3086,7 @@ namespace WindowsFormApplication1 {
 			this->J7->Name = L"J7";
 			this->J7->Size = System::Drawing::Size(24, 24);
 			this->J7->TabIndex = 69;
+			this->J7->TabStop = false;
 			this->J7->UseVisualStyleBackColor = true;
 			this->J7->Click += gcnew System::EventHandler(this, &Gracz::button2_Click);
 			// 
@@ -2914,6 +3096,7 @@ namespace WindowsFormApplication1 {
 			this->B6->Name = L"B6";
 			this->B6->Size = System::Drawing::Size(24, 24);
 			this->B6->TabIndex = 51;
+			this->B6->TabStop = false;
 			this->B6->UseVisualStyleBackColor = true;
 			this->B6->Click += gcnew System::EventHandler(this, &Gracz::button2_Click);
 			// 
@@ -2923,6 +3106,7 @@ namespace WindowsFormApplication1 {
 			this->I7->Name = L"I7";
 			this->I7->Size = System::Drawing::Size(24, 24);
 			this->I7->TabIndex = 68;
+			this->I7->TabStop = false;
 			this->I7->UseVisualStyleBackColor = true;
 			this->I7->Click += gcnew System::EventHandler(this, &Gracz::button2_Click);
 			// 
@@ -2932,6 +3116,7 @@ namespace WindowsFormApplication1 {
 			this->C6->Name = L"C6";
 			this->C6->Size = System::Drawing::Size(24, 24);
 			this->C6->TabIndex = 52;
+			this->C6->TabStop = false;
 			this->C6->UseVisualStyleBackColor = true;
 			this->C6->Click += gcnew System::EventHandler(this, &Gracz::button2_Click);
 			// 
@@ -2941,6 +3126,7 @@ namespace WindowsFormApplication1 {
 			this->H7->Name = L"H7";
 			this->H7->Size = System::Drawing::Size(24, 24);
 			this->H7->TabIndex = 67;
+			this->H7->TabStop = false;
 			this->H7->UseVisualStyleBackColor = true;
 			this->H7->Click += gcnew System::EventHandler(this, &Gracz::button2_Click);
 			// 
@@ -2950,6 +3136,7 @@ namespace WindowsFormApplication1 {
 			this->D6->Name = L"D6";
 			this->D6->Size = System::Drawing::Size(24, 24);
 			this->D6->TabIndex = 53;
+			this->D6->TabStop = false;
 			this->D6->UseVisualStyleBackColor = true;
 			this->D6->Click += gcnew System::EventHandler(this, &Gracz::button2_Click);
 			// 
@@ -2959,6 +3146,7 @@ namespace WindowsFormApplication1 {
 			this->G7->Name = L"G7";
 			this->G7->Size = System::Drawing::Size(24, 24);
 			this->G7->TabIndex = 66;
+			this->G7->TabStop = false;
 			this->G7->UseVisualStyleBackColor = true;
 			this->G7->Click += gcnew System::EventHandler(this, &Gracz::button2_Click);
 			// 
@@ -2968,6 +3156,7 @@ namespace WindowsFormApplication1 {
 			this->E6->Name = L"E6";
 			this->E6->Size = System::Drawing::Size(24, 24);
 			this->E6->TabIndex = 54;
+			this->E6->TabStop = false;
 			this->E6->UseVisualStyleBackColor = true;
 			this->E6->Click += gcnew System::EventHandler(this, &Gracz::button2_Click);
 			// 
@@ -2977,6 +3166,7 @@ namespace WindowsFormApplication1 {
 			this->F7->Name = L"F7";
 			this->F7->Size = System::Drawing::Size(24, 24);
 			this->F7->TabIndex = 65;
+			this->F7->TabStop = false;
 			this->F7->UseVisualStyleBackColor = true;
 			this->F7->Click += gcnew System::EventHandler(this, &Gracz::button2_Click);
 			// 
@@ -2986,6 +3176,7 @@ namespace WindowsFormApplication1 {
 			this->F6->Name = L"F6";
 			this->F6->Size = System::Drawing::Size(24, 24);
 			this->F6->TabIndex = 55;
+			this->F6->TabStop = false;
 			this->F6->UseVisualStyleBackColor = true;
 			this->F6->Click += gcnew System::EventHandler(this, &Gracz::button2_Click);
 			// 
@@ -2995,6 +3186,7 @@ namespace WindowsFormApplication1 {
 			this->E7->Name = L"E7";
 			this->E7->Size = System::Drawing::Size(24, 24);
 			this->E7->TabIndex = 64;
+			this->E7->TabStop = false;
 			this->E7->UseVisualStyleBackColor = true;
 			this->E7->Click += gcnew System::EventHandler(this, &Gracz::button2_Click);
 			// 
@@ -3004,6 +3196,7 @@ namespace WindowsFormApplication1 {
 			this->G6->Name = L"G6";
 			this->G6->Size = System::Drawing::Size(24, 24);
 			this->G6->TabIndex = 56;
+			this->G6->TabStop = false;
 			this->G6->UseVisualStyleBackColor = true;
 			this->G6->Click += gcnew System::EventHandler(this, &Gracz::button2_Click);
 			// 
@@ -3013,6 +3206,7 @@ namespace WindowsFormApplication1 {
 			this->D7->Name = L"D7";
 			this->D7->Size = System::Drawing::Size(24, 24);
 			this->D7->TabIndex = 63;
+			this->D7->TabStop = false;
 			this->D7->UseVisualStyleBackColor = true;
 			this->D7->Click += gcnew System::EventHandler(this, &Gracz::button2_Click);
 			// 
@@ -3022,6 +3216,7 @@ namespace WindowsFormApplication1 {
 			this->H6->Name = L"H6";
 			this->H6->Size = System::Drawing::Size(24, 24);
 			this->H6->TabIndex = 57;
+			this->H6->TabStop = false;
 			this->H6->UseVisualStyleBackColor = true;
 			this->H6->Click += gcnew System::EventHandler(this, &Gracz::button2_Click);
 			// 
@@ -3031,6 +3226,7 @@ namespace WindowsFormApplication1 {
 			this->C7->Name = L"C7";
 			this->C7->Size = System::Drawing::Size(24, 24);
 			this->C7->TabIndex = 62;
+			this->C7->TabStop = false;
 			this->C7->UseVisualStyleBackColor = true;
 			this->C7->Click += gcnew System::EventHandler(this, &Gracz::button2_Click);
 			// 
@@ -3040,6 +3236,7 @@ namespace WindowsFormApplication1 {
 			this->I6->Name = L"I6";
 			this->I6->Size = System::Drawing::Size(24, 24);
 			this->I6->TabIndex = 58;
+			this->I6->TabStop = false;
 			this->I6->UseVisualStyleBackColor = true;
 			this->I6->Click += gcnew System::EventHandler(this, &Gracz::button2_Click);
 			// 
@@ -3049,6 +3246,7 @@ namespace WindowsFormApplication1 {
 			this->B7->Name = L"B7";
 			this->B7->Size = System::Drawing::Size(24, 24);
 			this->B7->TabIndex = 61;
+			this->B7->TabStop = false;
 			this->B7->UseVisualStyleBackColor = true;
 			this->B7->Click += gcnew System::EventHandler(this, &Gracz::button2_Click);
 			// 
@@ -3058,6 +3256,7 @@ namespace WindowsFormApplication1 {
 			this->J6->Name = L"J6";
 			this->J6->Size = System::Drawing::Size(24, 24);
 			this->J6->TabIndex = 59;
+			this->J6->TabStop = false;
 			this->J6->UseVisualStyleBackColor = true;
 			this->J6->Click += gcnew System::EventHandler(this, &Gracz::button2_Click);
 			// 
@@ -3067,6 +3266,7 @@ namespace WindowsFormApplication1 {
 			this->A7->Name = L"A7";
 			this->A7->Size = System::Drawing::Size(24, 24);
 			this->A7->TabIndex = 60;
+			this->A7->TabStop = false;
 			this->A7->UseVisualStyleBackColor = true;
 			this->A7->Click += gcnew System::EventHandler(this, &Gracz::button2_Click);
 			// 

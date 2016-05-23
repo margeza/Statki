@@ -46,12 +46,14 @@ namespace WindowsFormApplication1 {
 	private: System::Windows::Forms::TextBox^  textBox2;
 	private: System::Windows::Forms::Label^  label1;
 	private: System::Windows::Forms::Label^  label2;
+	private: System::Windows::Forms::ToolTip^  toolTip1;
+	private: System::ComponentModel::IContainer^  components;
 
 	private:
 		/// <summary>
 		/// Required designer variable.
 		/// </summary>
-		System::ComponentModel::Container ^components;
+
 
 #pragma region Windows Form Designer generated code
 		/// <summary>
@@ -60,11 +62,13 @@ namespace WindowsFormApplication1 {
 		/// </summary>
 		void InitializeComponent(void)
 		{
+			this->components = (gcnew System::ComponentModel::Container());
 			this->button1 = (gcnew System::Windows::Forms::Button());
 			this->textBox1 = (gcnew System::Windows::Forms::TextBox());
 			this->textBox2 = (gcnew System::Windows::Forms::TextBox());
 			this->label1 = (gcnew System::Windows::Forms::Label());
 			this->label2 = (gcnew System::Windows::Forms::Label());
+			this->toolTip1 = (gcnew System::Windows::Forms::ToolTip(this->components));
 			this->SuspendLayout();
 			// 
 			// button1
@@ -83,6 +87,8 @@ namespace WindowsFormApplication1 {
 			this->textBox1->Name = L"textBox1";
 			this->textBox1->Size = System::Drawing::Size(100, 20);
 			this->textBox1->TabIndex = 1;
+			this->textBox1->Text = L"Gracz 1";
+			this->toolTip1->SetToolTip(this->textBox1, L"Wpisz imie gracza 1");
 			// 
 			// textBox2
 			// 
@@ -90,6 +96,8 @@ namespace WindowsFormApplication1 {
 			this->textBox2->Name = L"textBox2";
 			this->textBox2->Size = System::Drawing::Size(100, 20);
 			this->textBox2->TabIndex = 2;
+			this->textBox2->Text = L"Gracz 2";
+			this->toolTip1->SetToolTip(this->textBox2, L"Wpisz imie gracza 2");
 			// 
 			// label1
 			// 
@@ -144,6 +152,7 @@ namespace WindowsFormApplication1 {
 		okno_gracza1->Dodaj(okno_gracza2);
 		okno_gracza2->Dodaj(okno_gracza1);
 		okno_gracza1->Show();
+		Hide();
 		
 	}
 	};
