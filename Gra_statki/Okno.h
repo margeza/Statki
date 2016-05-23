@@ -152,7 +152,7 @@ namespace WindowsFormApplication1 {
 		okno_gracza1->Dodaj(okno_gracza2);
 		okno_gracza2->Dodaj(okno_gracza1);
 		okno_gracza1->Show();
-		Hide();
+		
 		
 	}
 	};
